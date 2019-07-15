@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/new/begin">
+        <file>photo/begin.jfif</file>
+    </qresource>
+    <qresource prefix="/new/firstLevel">
+        <file>photo/firstGoal.jpg</file>
+        <file>photo/playingBackground.png</file>
+        <file>photo/background2.png</file>
+    </qresource>
+    <qresource prefix="/oldMan">
+        <file>photo/oldMan.png</file>
+        <file>photo/oldManWorking.png</file>
+    </qresource>
+    <qresource prefix="/hook">
+        <file>photo/hook.png</file>
+        <file>photo/hook1.png</file>
+        <file>photo/line.png</file>
+    </qresource>
+    <qresource prefix="/golds">
+        <file>photo/bigGold.png</file>
+        <file>photo/smallGold.png</file>
+    </qresource>
+    <qresource prefix="/fail">
+        <file>photo/fail.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>GoldenMiner/photo/backimg.png</file>
+        <file>GoldenMiner/photo/badboss.png</file>
+        <file>GoldenMiner/photo/biggold.png</file>
+        <file>GoldenMiner/photo/bomb.png</file>
+        <file>GoldenMiner/photo/bone.png</file>
+        <file>GoldenMiner/photo/boss.png</file>
+        <file>GoldenMiner/photo/daimond.png</file>
+        <file>GoldenMiner/photo/daimondpig.png</file>
+        <file>GoldenMiner/photo/luckdog.png</file>
+        <file>GoldenMiner/photo/midgold.png</file>
+        <file>GoldenMiner/photo/next.png</file>
+        <file>GoldenMiner/photo/oldman.png</file>
+        <file>GoldenMiner/photo/pig.png</file>
+        <file>GoldenMiner/photo/secretpacket.png</file>
+        <file>GoldenMiner/photo/smallgold.png</file>
+        <file>GoldenMiner/photo/stone2.png</file>
+        <file>GoldenMiner/photo/stonebook.png</file>
+        <file>GoldenMiner/photo/strongdrug.png</file>
+        <file>GoldenMiner/photo/threeleaves.png</file>
+        <file>GoldenMiner/photo/tnt.png</file>
+        <file>GoldenMiner/photo/words.png</file>
+        <file>GoldenMiner/photo/pig2.png</file>
+        <file>GoldenMiner/photo/pig3.png</file>
+    </qresource>
+    <qresource prefix="/stone">
+        <file>photo/stones.png</file>
+    </qresource>
+    <qresource prefix="/luckyBag">
+        <file>photo/luckyBag.png</file>
+    </qresource>
+    <qresource prefix="/pig">
+        <file>photo/diamondPigLeft.png</file>
+    </qresource>
+    <qresource prefix="/goal">
+        <file>photo/secondGoal.png</file>
+        <file>photo/thirdGoal.png</file>
+    </qresource>
+</RCC>

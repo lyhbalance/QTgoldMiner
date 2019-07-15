@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>photo/badboss.png</file>
+        <file>photo/boss.png</file>
+        <file>photo/next.png</file>
+        <file>photo/backimg.png</file>
+        <file>photo/bomb.png</file>
+        <file>photo/stonebook.png</file>
+        <file>photo/strongdrug.png</file>
+        <file>photo/threeleaves.png</file>
+        <file>photo/luckdog.png</file>
+        <file>photo/words.png</file>
+        <file>photo/smallgold.png</file>
+    </qresource>
+</RCC>
